@@ -1,0 +1,23 @@
+Créditos das imagens do catálogo ECO
+
+Os cartões mostram detalhes recortados das fotografias. Autoria e licenças dos arquivos no Wikimedia Commons:
+
+The Weeknd — Salandco
+https://commons.wikimedia.org/wiki/File:The_Weeknd_with_hand_in_the_air_performing_live_in_Hong_Kong_in_November_2018.jpg
+
+Billie Eilish — Lars Crommelinck Photography
+https://commons.wikimedia.org/wiki/File:Billie_Eilish_at_Pukkelpop_Festival_-_18_AUGUST_2019_%2810%29.jpg
+
+Lana Del Rey — Georges Biard
+https://commons.wikimedia.org/wiki/File:Lana_Del_Rey_Cannes_2012.jpg
+
+Tyler, The Creator — Raph_PH
+https://commons.wikimedia.org/wiki/File:Tyler_the_Creator_2022_cropped_%28cropped%29.png
+
+Imagine Dragons — Eric Ray Davidson / Coke Studio.
+Arctic Monkeys — Zackery Michael / NME.
+Maneva — Lana Pinho / Correio do Povo.
+Olivia Rodrigo — foto disponibilizada pelo Promiflash.
+Tame Impala — retrato fornecido para a apresentação escolar.
+
+Capas de Currents, SOUR, AM e Luz que me traz paz — obras dos respectivos titulares. As origens das versões utilizadas estão em js/imagens.js.
