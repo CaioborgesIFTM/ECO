@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="#091019">
+    <title>ECO — Descoberta musical independente</title>
+    <link rel="icon" href="assets/logo.png">
+    <link rel="stylesheet" href="css/eco.css">
+    <!-- defer preserva a ordem dos módulos e espera o HTML ficar disponível. app.js inicializa o ECO por último. -->
+    <script defer src="js/dados.js"></script>
+    <script defer src="js/imagens.js"></script>
+    <script defer src="js/componentes.js"></script>
+    <script defer src="js/player.js"></script>
+    <script defer src="js/interface.js"></script>
+    <script defer src="js/estudio.js"></script>
+    <script defer src="js/admin.js"></script>
+    <script defer src="js/descoberta.js"></script>
+    <script defer src="js/desempenho.js"></script>
+    <script defer src="js/institucional.js"></script>
+    <script defer src="js/contas.js"></script>
+    <script defer src="js/app.js"></script>
+  </head>
+  <body>
+    <a href="#conteudo" class="skip">Pular para o conteúdo</a>
+    <header id="topo"></header>
+    <div id="shell">
+      <aside id="lateral" hidden></aside>
+      <main id="conteudo" tabindex="-1">
+        <h1>ECO</h1>
+        <p>Carregando o catálogo musical…</p>
+      </main>
+    </div>
+    <footer id="rodape"></footer>
+    <!-- O player fica fora do conteúdo principal para continuar tocando ao mudar de página. -->
+    <section id="player" aria-label="Player musical" hidden></section>
+    <audio id="audio" preload="metadata"></audio>
+    <dialog id="modal">
+      <div id="dialogo"></div>
+    </dialog>
+    <aside id="lancamentos" aria-live="polite" hidden></aside>
+    <div id="aviso" role="status" aria-live="polite"></div>
+    <noscript>Ative o JavaScript para ouvir músicas e acessar os painéis do ECO.</noscript>
+  </body>
+</html>
